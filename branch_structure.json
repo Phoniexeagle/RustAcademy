@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1015-ba-102-validate-requested-sandbox-language",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1015-ba-102-validate-requested-sandbox-language": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1015-ba-102-validate-requested-sandbox-language",
+    "origin"
+  ]
+}
